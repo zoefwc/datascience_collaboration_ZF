@@ -6,3 +6,5 @@ What question will our team investigate?
 ## Team
 - Student name: analysis and visualisation
 - Student name: data documentation
+
+## Adding a research question
